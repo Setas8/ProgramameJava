@@ -1,4 +1,4 @@
-package pqt_programame;
+package pqt_ejercicios;
 
 import java.util.Scanner;
 
